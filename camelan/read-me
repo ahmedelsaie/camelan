@@ -1,0 +1,4 @@
+* to run the server 
+docker-compose up
+
+* the server will run on localhost:7000
